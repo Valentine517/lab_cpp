@@ -17,7 +17,7 @@ int main() {
     G2 = a * b;
 
     // виведення результату
-    cout << "Sqquare of geometric mean: " << G2 << endl;
+    cout << "Square of geometric mean: " << G2 << endl;
 
     // задача Begin32
     // декларація змінних
